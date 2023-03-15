@@ -28,6 +28,9 @@ a=b
 b=temp
 print("Swapped values are: {:.1f} {:.1f}".format(a,b))
 ```
+## OUTPUT:
+![image](https://user-images.githubusercontent.com/119475585/225214966-1fa8e833-d1f3-417a-850b-ac1047602e11.png)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
